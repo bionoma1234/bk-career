@@ -1,12 +1,12 @@
 {
-  "name": "Flight School 107 | BK Remote Pilot Study Agent",
+  "name": "Flight School 107 | Sky Edition",
   "short_name": "Flight School 107",
   "description": "FAA Part 107 study companion. Offline-ready practice, explanations and exam prep.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0d1412",
-  "theme_color": "#111917",
+  "background_color": "#eaf5fd",
+  "theme_color": "#dceef9",
   "icons": [
     {
       "src": "./icon.svg",
